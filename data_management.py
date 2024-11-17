@@ -26,3 +26,4 @@ else:
     filtered_list = sorted([num for num in inputs if num > 10])
     print(f"Original List: {', '.join(map(str, inputs))}")
     print(f"Filtered List (values > 10): {', '.join(map(str, filtered_list))}")
+#added a new comment
